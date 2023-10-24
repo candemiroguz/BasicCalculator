@@ -11,7 +11,7 @@ Double click on the index.html file to open it in your web browser.
 Start using the calculator! You can perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 Contribution:
 
-You can enhance the calculator by adding more complex mathematical functions.
+You can enhance the calculator by adding more basic mathematical functions.
 Provide suggestions to improve the user interface.
 Fix bugs or add new features.
 Contribution Guidelines:
